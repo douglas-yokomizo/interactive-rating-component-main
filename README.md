@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [https://douglas-yokomizo.github.io/interactive-rating-component-main/]
 
 ## My process
 
